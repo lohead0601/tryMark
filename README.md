@@ -1,24 +1,21 @@
 # Introduction
-The following 8 tasks should be completed by ONE student each step by step!!
+The following 8 tasks should be completed by **ONE student each** in the **CORRECT ORDER**!!
 
-1. **Create all issues** for group members
-   - [Check all Issues!!](https://github.com/csci3251-2021/project-team-l/issues)
-   
-2. Create **project board**
-   - Using **Basic Kanban template** - [About project board](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards)
+1. **Create [all issues](https://github.com/csci3251-2021/project-team-l/issues)** for group members
+  
+2. Create **[project board](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards)** by using **Basic Kanban template**
    - Set up **automations** for tasks progress
    
-3. Set up readme.md with all headers
-   - **Well-formatted** with Markdown
+3. Set up **Well-formatted** readme.md with all headers
    
 4. Update **Contributors** in readme.md
-   - Set up the github page
 
-5. Keeping **checking project status**
-   - Remind group members to do their tasks
+5. Keep **checking project status** and **remind group members** to do their tasks
 
-6. Set up **Git Action** to run a simple C code
+6. Set up **Git Action** to run a **simple C code**
+
 7. Update **Code** in readme.md
-8. Public project-team-l repo
+
+8. Add the link to promote project-team-l repo
 # Code
 # Contributors
