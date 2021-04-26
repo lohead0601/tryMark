@@ -20,3 +20,4 @@ The following 8 tasks should be completed by **ONE student each** in the **CORRE
 8. Add the link to promote project-team-l repo
 # Code
 # Contributors
+- ![Image of Contributors](https://avatars.githubusercontent.com/u/48676032?s=60&v=4){:height="36px" width="36px"}
